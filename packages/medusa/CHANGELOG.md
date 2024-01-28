@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.20.2
+
+### Patch Changes
+
+- [#6240](https://github.com/medusajs/medusa/pull/6240) [`360c71e39`](https://github.com/medusajs/medusa/commit/360c71e39a31b96e82828563f46f8269b80595cc) Thanks [@srindom](https://github.com/srindom)! - fix(medusa): improve error message on incorrect service export
+
 ## 1.20.1
 
 ### Patch Changes
